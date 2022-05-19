@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/neo_dnd/static/css/main.e6c13ad2.css",
+    "main.js": "/neo_dnd/static/js/main.2dc5db0f.js",
+    "index.html": "/neo_dnd/index.html",
+    "main.e6c13ad2.css.map": "/neo_dnd/static/css/main.e6c13ad2.css.map",
+    "main.2dc5db0f.js.map": "/neo_dnd/static/js/main.2dc5db0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2dc5db0f.js"
+  ]
+}
