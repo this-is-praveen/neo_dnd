@@ -4,4 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Sonar Report 
 
-![image](https://user-images.githubusercontent.com/26268902/169242983-8d801883-2cf6-4d6a-a0a0-0b2f3414847e.png)
+![report grade](https://user-images.githubusercontent.com/26268902/169243235-a9065c8f-760e-4a79-a726-6b18eb31681b.png)
+
