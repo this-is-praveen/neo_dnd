@@ -2,6 +2,7 @@
   "name": "neo_dnd",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://this-is-praveen.github.io/neo_dnd",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -41,6 +42,7 @@
   },
   "devDependencies": {
     "eslint": "^8.15.0",
-    "eslint-plugin-react": "^7.29.4"
+    "eslint-plugin-react": "^7.29.4",
+    "gh-pages": "^4.0.0"
   }
 }
